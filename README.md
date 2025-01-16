@@ -1,1 +1,1 @@
-# Map-Editor-SDL2
+# GE2D
